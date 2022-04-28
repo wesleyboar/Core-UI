@@ -1,0 +1,13 @@
+{
+  "name": "@tacc/core-ui",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "TACC ACI WMA <wma-portals@gmail.com>",
+  "description": "UI source code and processor for TACC projects.",
+  "engines": {
+    "node": ">=16.x",
+    "npm": ">=8.x"
+  },
+  "homepage": "https://github.com/tacc-wbomar/Core-UI",
+  "repository": "git@github.com:tacc-wbomar/Core-UI.git"
+}

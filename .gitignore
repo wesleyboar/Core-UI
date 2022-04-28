@@ -1,0 +1,10 @@
+# Project
+node_modules
+
+# IDE
+.vscode
+
+# OS
+.DS_Store
+._*
+Thumbs.db
