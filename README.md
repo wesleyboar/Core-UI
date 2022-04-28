@@ -1,4 +1,4 @@
-# TACC Core Styles
+# TACC Core UI
 
 The shared styles and components for TACC WMA Workspace Portals & Websites
 
