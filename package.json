@@ -8,6 +8,6 @@
     "node": ">=16.x",
     "npm": ">=8.x"
   },
-  "homepage": "https://github.com/tacc-wbomar/Core-UI",
-  "repository": "git@github.com:tacc-wbomar/Core-UI.git"
+  "homepage": "https://github.com/wesleyboar/Core-UI",
+  "repository": "git@github.com:wesleyboar/Core-UI.git"
 }
