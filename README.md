@@ -68,7 +68,7 @@ Sign your commits ([see this link](https://help.github.com/en/github/authenticat
 
 <!-- Link Aliases -->
 
-[Core Pattern Library]: https://github.com/wesleyboar/Core-CMS-Pattern-Library
+[Core CMS Pattern Library]: https://github.com/wesleyboar/Core-CMS-Pattern-Library
 [Core Portal Deployments]: https://github.com/TACC/Core-Portal-Deployments
 [Camino]: https://github.com/TACC/Camino
 [Core Styles]: https://github.com/TACC/Core-Styles
