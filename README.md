@@ -37,12 +37,14 @@ The Core UI are not deployed alone _yet_. ¹
 
 _For now_, the stylesheets are acquired or accessed by other repositories.
 
-| Repo | (Expected) Usage |
-| - | - |
-| __[Core CMS]__ | as dependency used in Node scripts with CLI commands |
-| __[Core CMS Pattern Library]__ | not accessing this UI [_yet_][research-pattern-lib] ¹ |
+| Repo | Current Usage | Future Usage |
+| - | - | - |
+| __[Core CMS]__                  | ✅ as dependency used in Node script to build styles | ❌                                              |
+| __[Core Portal]__               | ⚠️  copying code from [Core Styles]                   | as dependency that offers pre-built stylesheets |
+| __TAPIS UI__                    | ❌                                                   | as dependency that offers pre-built stylesheets |
+| __[Core CMS Pattern Library]¹__ | ❌ [researching][research-pattern-lib]               | as dependency that offers pre-built stylesheets |
 
-<sub>¹ There is a goal to have a pattern library that is deployable to showcase the UI avaialble.</sub>
+<sub>¹ We wish to have a deployable pattern library that showcase avaialble UI.</sub>
 
 [research-pattern-lib]: https://confluence.tacc.utexas.edu/x/FADMBQ
 
